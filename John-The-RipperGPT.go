@@ -1,3 +1,10 @@
+// Description: A sophisticated password cracking tool that integrates advanced evasion techniques, machine learning, and GPU acceleration.
+// It includes features for Kerberos and SSH attacks, advanced wordlist generation, and a RESTful API for interaction.
+//	Author: Swank
+//	License: none
+//	Disclaimer: This code is for educational purposes only. Use responsibly and ethically. The author is not responsible for any misuse or damage caused by this code.
+
+
 // Example targets are proxied for safety.
 import (
 "bufio"
